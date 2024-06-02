@@ -1,12 +1,12 @@
 <div align="center" style="background-color:black;padding:10px;">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&background=000000&center=true&vCenter=true&width=435&lines=Hey..+I'm+Alqwuerty;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Alex;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
 # 💻 About Me
 
-👋 Hi, I'm Alejandro Ruiz Mira, an IT Infrastructure Engineer and Architect with over 10 years of experience. I have extensive technical expertise and a passion for technology, automation, Cloud Computing, CI/CD, and infrastructure as code. I excel in leveraging open source technologies to create efficient and scalable solutions.
+👋 Hi, I'm Alex Ruiz Mira, an IT Infrastructure Engineer and Architect with over 10 years of experience. I have extensive technical expertise and a passion for technology, automation, Cloud Computing, CI/CD, and infrastructure as code. I excel in leveraging open source technologies to create efficient and scalable solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandro-ruiz-mira-9b175059/)
 
